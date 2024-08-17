@@ -12,9 +12,6 @@
 演示地址：[https://milk.gitapp.cn](https://milk.gitapp.cn)
 
 
-## 源码下载
-
-https://github.com/geeeeeeeek/python_milk
 
 
 ## 主要功能
